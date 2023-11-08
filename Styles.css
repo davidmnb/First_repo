@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+h2:hover {background-color: #4169E1;}
+
+
+tr:hover {background-color: #4169E1;}
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+img {
+  border: 5px double #008080 ;
+ 
+}
+
+#maintitle {
+    
+	background-image:linear-gradient(to bottom right,#1434A4, #4169E1, #40B5AD, #008080 );
+	height:100%;
+    overflow: auto;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
