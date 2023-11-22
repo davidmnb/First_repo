@@ -1,0 +1,20 @@
+// Cache the DOM
+var button= document.getElementById("button")
+var nume= document.getElementById("nume")
+var mail= document.getElementById("mail")
+var asteptari= document.getElementById("asteptari")
+var img= document.getElementById("imagine")
+var body= document.getElementById("body")
+var asteptari= document.getElementById("asteptari")
+var title= document.getElementById("title")
+var maintitle=document.getElementById("maintitle")
+// Add eventListener
+button.addEventListener("click", AltaViata)
+
+function AltaViata(){
+	nume.innerHTML= "Functie:Senior Java Developer";
+	mail.innerHTML="Email:Sabau.do.david@student.utcluj.ro"
+	asteptari.innerHTML="asteptari"
+	img.src="vali-spaidar.jpg";
+	body.maintitle.style.backgroundImage:linear-gradient(to bottom right ,black,red );
+}
