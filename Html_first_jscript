@@ -21,7 +21,7 @@ function AltaViata(){
 		}else{
 	nume.innerHTML= "Functie:Senior Java Developer";
 	mail.innerHTML="Email:Sabau.do.david@student.utcluj.ro";
-	asteptari.innerHTML="asteptari";
+	asteptari.innerHTML="meow";
 	img.src="IMG_1148.jpeg";
 	maintitle.style.backgroundImage="linear-gradient(to bottom right, #420D09,#8B0000,#DB0007,#FF4500)";
 }
