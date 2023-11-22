@@ -1,4 +1,20 @@
-body {
-  text-align: center;
-  background-image:linear-gradient(to bottom right,#ebebec, #abb4bf, #7689a7 );
+html{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  
 }
+body {
+  width: auto;
+  height:100%;
+  margin-left: 0 auto;
+  margin-right: 0  auto;
+  background-image:linear-gradient(to bottom right, #ffffff, #e1defb, #c2bdf7, #9f9ef2, #7681ed, #7068d1, #694fb4, #603698, #5a2265, #45163b, #28101d, #000000);
+}
+h2:hover {background-color:#e1defb;}
+#main{
+	text-align: center;
+vertical-align: middle;
+  padding:275px 0;
+ }
+
